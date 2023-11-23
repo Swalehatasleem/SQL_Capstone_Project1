@@ -1,1 +1,2 @@
-# SQL_Capstone_Project1
+# Capstone Project: Employee HR Database Management
+This repository contains SQL scripts for creating and managing an employee HR database for a fictional organization. The project focuses on essential SQL queries for database creation, data insertion, and various retrieval and update operations. The database schema includes information about employees, such as their ID, names, department, salary, and hire date.
